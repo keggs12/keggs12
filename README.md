@@ -16,5 +16,5 @@ Hi.  I'm a fullstack developer, I work on angular, typectipt, javascript, node, 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
---->
+
 
